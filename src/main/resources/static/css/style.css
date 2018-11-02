@@ -1,0 +1,27 @@
+.error {
+	color: red;
+}
+
+.tableBar {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.tableBar h3 {
+	display: inline-block;
+}
+
+table {
+	border: 1px solid black;
+}
+
+th {
+	border: 1px solid black;
+}
+
+td {
+	border: 1px solid black;
+	padding: 4px;
+}
+
